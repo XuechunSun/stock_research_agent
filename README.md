@@ -1,4 +1,5 @@
 # stock_research_agent
+<<<<<<< HEAD
 
 Minimal **phase 1** prototype: a **deterministic** CLI pipeline for a **US-equity-only** research assistant. Tools are **stubs**; there is **no LLM** and no live web retrieval. This is **not** trading or execution software and **not** financial advice.
 
@@ -41,3 +42,6 @@ python -m app.main -q "Your question here"
 ## Limitations
 
 Stub outputs are **operational status only**, not verified research. Scope uses a small **static symbol map** (local, not a data feed) plus explicit US market cues; unmapped names/tickers need clarification or explicit US context.
+=======
+AI Agent for US Stock Analysis
+>>>>>>> 535d0f92397a9a0cb1df33848a1f81db6869f03f
